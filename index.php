@@ -71,6 +71,7 @@
           <select name="subject" id="subject">
             <option value="OOPS">Object Oriented Programming</option>
             <option value="DSA">Data Structures and Algorithms</option>
+             <option value="DBMS">Database Management System</option>
             <option value="MI">Microprocessors</option>
             <option value="AS">Applied Science</option>
           </select>
